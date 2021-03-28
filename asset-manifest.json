@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-WorkDay-Scheduler/static/css/main.ee832ea5.chunk.css",
+    "main.js": "/React-WorkDay-Scheduler/static/js/main.ba9cf2bd.chunk.js",
+    "main.js.map": "/React-WorkDay-Scheduler/static/js/main.ba9cf2bd.chunk.js.map",
+    "runtime-main.js": "/React-WorkDay-Scheduler/static/js/runtime-main.8c538000.js",
+    "runtime-main.js.map": "/React-WorkDay-Scheduler/static/js/runtime-main.8c538000.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/React-WorkDay-Scheduler/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.1327b941.chunk.js": "/React-WorkDay-Scheduler/static/js/2.1327b941.chunk.js",
+    "static/js/2.1327b941.chunk.js.map": "/React-WorkDay-Scheduler/static/js/2.1327b941.chunk.js.map",
+    "index.html": "/React-WorkDay-Scheduler/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/React-WorkDay-Scheduler/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.ee832ea5.chunk.css.map": "/React-WorkDay-Scheduler/static/css/main.ee832ea5.chunk.css.map",
+    "static/js/2.1327b941.chunk.js.LICENSE.txt": "/React-WorkDay-Scheduler/static/js/2.1327b941.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c538000.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.1327b941.chunk.js",
+    "static/css/main.ee832ea5.chunk.css",
+    "static/js/main.ba9cf2bd.chunk.js"
+  ]
+}
