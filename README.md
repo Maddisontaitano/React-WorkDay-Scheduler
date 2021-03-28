@@ -32,7 +32,13 @@
 
 ## snippets
 
+This is a code snippet of my slots component. This shows the configuration I used for saving to local storage.
 
+![GitHub Logo](/img/codesnippet.png)
+
+This is a broswer snippet. This shows what you will see in the broswer once you open the app and add a few things to the schedule.
+
+![GitHub Logo](/img/UIsnippet.png)
     
 
    
