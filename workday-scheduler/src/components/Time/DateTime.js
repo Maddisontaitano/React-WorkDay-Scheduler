@@ -1,18 +1,24 @@
+import  React, { useState , useEffect } from 'react'
 
-import React, { useState } from 'react';
-import DateTimePicker from 'react-datetime-picker';
+export const DateTime = () => {
 
-function DateTime() {
-  const [value, onChange] = useState(new Date());
+    var [date,setDate] = useState(new Date());
+    
+    useEffect(() => {
+        var timer = setInterval(()=>setDate(new Date()), 1000 )
+        return function cleanup() {
+            clearInterval(timer)
+        }
+    
+    });
 
-  return (
-    <div>
-      <DateTimePicker
-        onChange={onChange}
-        value={value}
-      />
-    </div>
-  );
+    return(
+        <div id="currentDay">
+            <p> Time : {date.toLocaleTimeString()}</p>
+            <p> Date : {date.toLocaleDateString()}</p>
+
+        </div>
+    )
 }
 
-export default DateTime;
+export default DateTime

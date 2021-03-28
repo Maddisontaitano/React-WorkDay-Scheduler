@@ -1,11 +1,16 @@
+import React from "react";
 import './App.css';
-//import Workday from './components/workDay';
-import DateTime from '/.components/Time/DateTime';
+import Workday from './components/workDay';
+import DateTime from './components/Time/DateTime.js';
+import Slots from './components/Slots/Slots';
 
 function App() {
   return (
-  //  <Workday />
-  <DateTime />
+    <div>
+    <Workday />
+      <DateTime />
+        <Slots />
+    </div>
   
   );
 }
