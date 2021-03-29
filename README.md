@@ -1,9 +1,10 @@
 # React-WorkDay-Scheduler
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-            This app was designed to help a user easily schedule events and meetings. The UI is clean and polished for
-        the best user experience. Unfortunately I was unable to get the data to render back in the same hour tag without 
-        it rendering in all the tags, so for now it will be rendering to a list on the side of the page. 
+            This app was designed to help a user easily schedule events and meetings. The UI is clean
+            and polished for the best user experience. Unfortunately I was unable to get the data to 
+            render back in the same hour tag without it rendering in all the tags, so for now it will be
+            rendering to a list on the side of the page. 
         
         Link to deployed application! --> https://maddisontaitano.github.io/React-WorkDay-Scheduler
     
